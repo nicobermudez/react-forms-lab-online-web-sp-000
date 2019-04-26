@@ -8,7 +8,9 @@ class LoginForm extends React.Component {
   }
 
   handleUsernameChange = event => {
-
+    this.setState = {
+      
+    }
   }
 
   handlePasswordChange = event => {
