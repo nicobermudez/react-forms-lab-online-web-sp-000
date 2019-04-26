@@ -8,6 +8,10 @@ class TwitterMessage extends React.Component {
     };
   }
 
+  handleMaxCharsChange = event => {
+    
+  }
+
   render() {
     return (
       <div>
