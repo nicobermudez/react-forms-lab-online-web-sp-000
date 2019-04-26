@@ -18,8 +18,9 @@ class LoginForm extends React.Component {
             id="username"
             name="username"
             type="text"
+            value={}
             />
-            
+
           </label>
         </div>
         <div>
