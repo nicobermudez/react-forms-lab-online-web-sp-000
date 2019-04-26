@@ -18,7 +18,7 @@ class LoginForm extends React.Component {
             id="username"
             name="username"
             type="text"
-            value={}
+            value={this.state.username}
             />
 
           </label>
